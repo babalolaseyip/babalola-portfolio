@@ -15,12 +15,12 @@ improved_portfolio/
         └── cv.pdf
 
 ## Features Included:
-- ✅ Actual work experience from your resume
-- ✅ Smaller profile picture (200px max width)
-- ✅ Functional contact form that emails to babalolaseyip@gmail.com
-- ✅ CV download button (PDF)
-- ✅ Responsive design for all devices
-- ✅ Animated elements and hover effects
+- Actual work experience from your resume
+- Smaller profile picture (200px max width)
+- Functional contact form that emails to babalolaseyip@gmail.com
+- CV download button (PDF)
+- Responsive design for all devices
+- Animated elements and hover effects
 
 ## To Use:
 1. Open `index.html` in any web browser
