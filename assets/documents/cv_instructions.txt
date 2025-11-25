@@ -1,0 +1,6 @@
+This is a placeholder for your CV PDF file.
+    
+Replace this file with your actual CV in PDF format.
+Save it as 'cv.pdf' in the assets/documents/ folder.
+
+The download button in the portfolio will then work properly.
