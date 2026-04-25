@@ -1,16 +1,11 @@
-# Dr. Oluwaseyi Babalola — Industry Target GitHub Pages Site
+# Dr. Babalola Top Tech Portfolio
 
-## How to deploy
-1. Upload all files to your GitHub Pages repository root.
-2. Ensure `index.html` is in the root directory.
-3. Put your CV at `assets/documents/cv.pdf`.
-4. In Google Search Console, verify using URL Prefix and submit `sitemap.xml`.
-5. Add your website URL to LinkedIn, GitHub profile, Google Scholar, and your CV.
+Upload all files to the root of your GitHub Pages repository.
 
-## SEO target keywords
-- Dr. Oluwaseyi Babalola
-- Machine Learning and Systems Engineer USA
-- AI Systems Engineer
-- Signal Processing Engineer
-- Machine Learning Signal Processing
-- Data Scientist Python MATLAB
+## Important
+1. Add your real photo as `assets/images/profile.jpg`.
+2. Add your latest resume as `assets/documents/cv.pdf`.
+3. In Google Search Console, submit `sitemap.xml`.
+4. If your GitHub Pages URL is not `https://babalolaseyip.github.io/`, update the canonical URLs and sitemap.
+
+The navigation label is written as **Home**, and your photo is used as the site logo with a fallback placeholder.
